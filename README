@@ -1,0 +1,24 @@
+HW #2 - Kyle Miller
+
+You need the following python libraries:
+numpy
+sklearn
+opencv
+
+How to run:
+
+In __main__ there is are commented out lines which can be easily replaced
+with your arguments for each of the parts
+
+The following functions solve each of the corresponding parts:
+
+Part 1 - partOne(dictionaryLocation)
+Part 2 - partTwo(dictionaryLocation)
+Part 3 - partThreeAndFour(dictionaryLocation)
+Part 4 - partThreeAndFour(dictionaryLocation)
+Part 5 - This was formed by a collection of methods. Part 5 tried:
+	removing items that shared other color words like (white, blue, etc.) from the training sets
+	Adding the first 20 search items to the training set
+	Using unsupervised clustering to try and clean up the training data
+	
+	These attempts can be found in part5 and test 3 and test 4
